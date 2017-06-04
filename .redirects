@@ -1,0 +1,4 @@
+/cfs/*  https://test-netlify-dhllvgvrhl.now.sh/cfs/:splat  200
+/sockjs/* https://test-netlify-dhllvgvrhl.now.sh/sockjs/:splat  200
+/*    /index.html   200
+
