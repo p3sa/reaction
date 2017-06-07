@@ -1,0 +1,3 @@
+/cfs/*  https://pesaio-8835197-template-api.now.sh/cfs/:splat  200
+/sockjs/*   https://pesaio-8835197-template-api.now.sh/sockjs/:splat  200
+/*    /index.html   200
