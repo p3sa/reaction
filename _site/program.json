@@ -60,9 +60,9 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/packages/modules.js?hash=fbb8da3fac22468bb0608032bbff39655286ef3a",
-      "size": 20221987,
-      "hash": "fbb8da3fac22468bb0608032bbff39655286ef3a"
+      "url": "/packages/modules.js?hash=d2de11874b0f172d851fa035b307597e3d784135",
+      "size": 20221072,
+      "hash": "d2de11874b0f172d851fa035b307597e3d784135"
     },
     {
       "path": "packages/es5-shim.js",
@@ -1102,11 +1102,11 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/packages/tmeasday_check-npm-versions.js?hash=ca71e5c8ae0ab522b9364109bc22d5a96c54429f",
+      "url": "/packages/tmeasday_check-npm-versions.js?hash=130b8e691c038482b3e40ef684d87ad18c4920e7",
       "sourceMap": "packages/tmeasday_check-npm-versions.js.map",
-      "sourceMapUrl": "/packages/ca71e5c8ae0ab522b9364109bc22d5a96c54429f.map",
+      "sourceMapUrl": "/packages/130b8e691c038482b3e40ef684d87ad18c4920e7.map",
       "size": 155169,
-      "hash": "ca71e5c8ae0ab522b9364109bc22d5a96c54429f"
+      "hash": "130b8e691c038482b3e40ef684d87ad18c4920e7"
     },
     {
       "path": "packages/react-meteor-data.js",
