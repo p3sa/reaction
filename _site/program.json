@@ -60,9 +60,9 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/packages/modules.js?hash=d2de11874b0f172d851fa035b307597e3d784135",
-      "size": 20221072,
-      "hash": "d2de11874b0f172d851fa035b307597e3d784135"
+      "url": "/packages/modules.js?hash=beba4d9de2f0c5683528d9bfd048051802de3a6b",
+      "size": 20383288,
+      "hash": "beba4d9de2f0c5683528d9bfd048051802de3a6b"
     },
     {
       "path": "packages/es5-shim.js",
@@ -1102,11 +1102,11 @@
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/packages/tmeasday_check-npm-versions.js?hash=8bf25be7d724fd3776a50a6d5603cd84e8850734",
+      "url": "/packages/tmeasday_check-npm-versions.js?hash=8c6f660b79a6a696d4e0c6df917a21266e6f5339",
       "sourceMap": "packages/tmeasday_check-npm-versions.js.map",
-      "sourceMapUrl": "/packages/8bf25be7d724fd3776a50a6d5603cd84e8850734.map",
+      "sourceMapUrl": "/packages/8c6f660b79a6a696d4e0c6df917a21266e6f5339.map",
       "size": 155169,
-      "hash": "8bf25be7d724fd3776a50a6d5603cd84e8850734"
+      "hash": "8c6f660b79a6a696d4e0c6df917a21266e6f5339"
     },
     {
       "path": "packages/react-meteor-data.js",
@@ -1350,11 +1350,11 @@
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/merged-stylesheets.css?hash=97b4e0ffa5555e85638e21dd447410ee728d1b48",
+      "url": "/merged-stylesheets.css?hash=8179cd08e2dd362576c5d5fb9bc823d60333e9d7",
       "sourceMap": "merged-stylesheets.css.map",
-      "sourceMapUrl": "/97b4e0ffa5555e85638e21dd447410ee728d1b48.map",
-      "size": 450809,
-      "hash": "97b4e0ffa5555e85638e21dd447410ee728d1b48"
+      "sourceMapUrl": "/8179cd08e2dd362576c5d5fb9bc823d60333e9d7.map",
+      "size": 450908,
+      "hash": "8179cd08e2dd362576c5d5fb9bc823d60333e9d7"
     },
     {
       "path": "packages/oauth/end_of_popup_response.js",
